@@ -1,8 +1,9 @@
 # Prerequisites
-#
+#####
 - JDK 17 or 21
 - Maven 3.9
 - MySQL 8
+- python 3.14
 
 # Technologies 
 - Spring MVC
